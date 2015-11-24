@@ -1,0 +1,7 @@
+header {
+    position: fixed;
+    z-index: 1000;
+    width: 100%;
+    background-color: #002a50;
+    background-color: rgba(0,42,80,.90);
+}
